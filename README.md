@@ -1,9 +1,10 @@
 ### Hi there 👋
 <p align="center">
  WELCOME TO MY GITHUB PROFILE 😄 !!
- <!--
+ <br> 
  <img src="https://github-readme-stats.vercel.app/api?username=alaafarouk8&show_icons=true&theme=radical">
   <br>
+ <!--
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaafarouk8&langs_count=15&show_icons=true&theme=radical">
   <br>
  -->
