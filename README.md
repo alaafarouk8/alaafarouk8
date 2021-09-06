@@ -1,7 +1,7 @@
 ### Hi there 👋
-WELCOME TO MY GITHUB PROFILE 😄 !!
+
 <p align="center">
- 
+ <b> WELCOME TO MY GITHUB PROFILE 😄 !! </b>
  <br> 
  <img src="https://github-readme-stats.vercel.app/api?username=alaafarouk8&show_icons=true&theme=radical">
   <br>
