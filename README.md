@@ -1,9 +1,11 @@
 ### Hi there 👋
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaafarouk8&langs_count=12&show_icons=true&theme=radical">
+
+ <img src="https://github-readme-stats.vercel.app/api?username=alaafarouk8&show_icons=true&theme=radical">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=alaafarouk8&show_icons=true&theme=radical">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaafarouk8&langs_count=15&show_icons=true&theme=radical">
   <br>
+ 
  
 </p>
 <!--
