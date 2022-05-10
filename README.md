@@ -1,10 +1,4 @@
 
-
-<p align="center">
- <b> WELCOME TO MY GITHUB PROFILE 😄 !! </b>
- <br> 
- 
-
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaafarouk8&langs_count=15&show_icons=true&theme=radical">
   <br> -->
 <!-- ![](https://komarev.com/ghpvc/?username=alaafarouk8) -->
